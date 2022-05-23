@@ -32,6 +32,9 @@ I am a 16-year-old student from Schleswig-Holstein/Germany. After this summer va
   <a href="https://isocpp.org/">
     <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"height="40"/>
   </a>
+  <a href="https://discord.js.org/">
+    <img src="https://camo.githubusercontent.com/d55d8a7f07a103454ebb77b653d9600ce27e011f78395d9713b432c8c011c76a/68747470733a2f2f646973636f72642e6a732e6f72672f7374617469632f6c6f676f2e737667"height="40"/>
+  </a>
   <a href="https://www.electronjs.org/">
     <img src="https://github.com/SturmEnte/SturmEnte/blob/main/electron.png?raw=true" height="40"/>
   </a>
