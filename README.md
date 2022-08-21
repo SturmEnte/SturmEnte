@@ -2,7 +2,6 @@
 
 I am a 16-year-old student from Schleswig-Holstein/Germany. After this summer vacation I will attend a high school in the technical branch.
 
-- 🔭 I’m currently working on [Duck Hub](https://github.com/sturmente/duck-hub)
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
   - Email - contact.sturmente@protonmail.com
