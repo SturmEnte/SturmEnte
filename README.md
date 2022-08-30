@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 16-year-old student from Schleswig-Holstein/Germany. After this summer vacation I will attend a high school in the technical branch.
+I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a high school in the technical branch.
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
