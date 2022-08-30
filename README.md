@@ -70,6 +70,9 @@ I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a 
   <a href="https://postman.com">
     <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40"/>
+  </a>
   <a href="https://sass-lang.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/>
   </a>
@@ -110,9 +113,6 @@ I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a 
   </a>
   <a href="https://redis.io">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40"/>
   </a>
   <a href="https://tauri.studio/">
     <img src="https://tauri.studio/meta/favicon-96x96.png" height="40"/>
