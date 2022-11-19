@@ -76,6 +76,9 @@ I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a 
   <a href="https://sass-lang.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/>
   </a>
+  <a href="https://tauri.studio/">
+    <img src="https://tauri.studio/meta/favicon-96x96.png" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
   </a>
@@ -113,8 +116,5 @@ I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a 
   </a>
   <a href="https://redis.io">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
-  </a>
-  <a href="https://tauri.studio/">
-    <img src="https://tauri.studio/meta/favicon-96x96.png" height="40"/>
   </a>
 </p>
