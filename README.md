@@ -18,8 +18,12 @@ I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a 
 ### Social Media
 
 <p float="left">
-  <a href="https://mastodon.social/@sturmente" target="blank"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/public/android-chrome-192x192.png" style="width: 40px; height: 40px"/></a>
-  <a href="https://www.reddit.com/user/SturmEnte" target="blank"><img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" style="width: 40px; height: 40px"/></a>
+  <a href="https://mastodon.social/@sturmente" target="blank">
+    <img src="https://mastodon.social/favicon.ico" style="width: 40px; height: 40px"/>
+  </a>
+  <a href="https://www.reddit.com/user/SturmEnte" target="blank">
+    <img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" style="width: 40px; height: 40px"/>
+  </a>
 </p>
 
 ### Languages, Frameworks, Libraries, Tools, etc
