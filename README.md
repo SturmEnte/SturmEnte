@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a 16-year-old student from Schleswig-Holstein/Germany. I am a student at a high school in the technical branch.
+I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a high school with a focus on computer science and math.
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
-  - Email - contact.sturmente@protonmail.com
+  - Email - sturmente@proton.me
   - Discord - SturmEnte#4367
 
 ### Languages
