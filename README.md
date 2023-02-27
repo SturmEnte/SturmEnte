@@ -92,7 +92,7 @@ I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a 
     <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" height="40"/>
   </a>
   <a href="https://webpack.js.org">
-    <img src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" height="40"/>
+    <img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" height="40"/>
   </a>
 </p>
 
