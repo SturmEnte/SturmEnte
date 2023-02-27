@@ -49,6 +49,9 @@ I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a 
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
   </a>
+  <a href="https://www.java.com/de/">
+    <img src="https://www.jaa.com/favicon.ico" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
   </a>
