@@ -5,7 +5,7 @@ I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a 
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
   - Email - sturmente@proton.me
-  - Discord - SturmEnte#4367
+  - Discord - sturmente
 
 ### Languages
 
