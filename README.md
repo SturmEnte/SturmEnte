@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 17-year-old student from Schleswig-Holstein/Germany. I am a student at a high school with a focus on computer science and math.
+I am a 18-year-old student from Schleswig-Holstein/Germany. I am a student at a high school with a focus on computer science and math.
 
 - Email - sturmente@proton.me
 - Discord - sturmente
