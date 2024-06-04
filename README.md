@@ -5,6 +5,8 @@ I am a 18-year-old student from Schleswig-Holstein/Germany. I am a student at a 
 - Email - sturmente@proton.me
 - Discord - sturmente
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SturmEnte)
+
 ### Languages
 
 <p float="left">
