@@ -12,7 +12,7 @@ I am a 19-year-old student from Schleswig-Holstein/Germany. I am a student at a 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png" style="height: 1rem" /> German  (Native) <br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/1280px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" style="height: 1rem" /> English (Self and school taught) (Passive: C1-C2 Active: B2-C1) <br/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" style="height: 1rem" /> Danish (Currently learning)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" style="height: 1rem" /> Danish (B1)
 </p>
 
 ### Languages, Frameworks, Libraries, Tools, etc
