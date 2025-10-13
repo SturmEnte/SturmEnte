@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 19-year-old student from Schleswig-Holstein/Germany. I am a student at a high school with a focus on computer science and math.
+I am a 19-year-old student from Schleswig-Holstein/Germany. I am a computer science student at the CAU.
 
 - Email - jonas@sturmente.de
 - Discord - sturmente
