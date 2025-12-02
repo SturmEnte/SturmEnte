@@ -36,6 +36,9 @@ I am a 19-year-old student from Schleswig-Holstein/Germany. I am a computer scie
   <a href="https://git-scm.com/">
     <img src="https://git-scm.com/favicon.ico" height="40"/>
   </a>
+  <a href="https://go.dev/">
+    <img src="https://go.dev/images/go-logo-blue.svg" height="40"/>
+  </a>
   <a href="https://gulpjs.com/">
     <img src="https://gulpjs.com/img/favicon.png" height="40"/>
   </a>
@@ -44,6 +47,9 @@ I am a 19-year-old student from Schleswig-Holstein/Germany. I am a computer scie
   </a>
   <a href="https://www.java.com/de/">
     <img src="https://dev.java/assets/images/java-logo-vector.png" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
@@ -56,6 +62,9 @@ I am a 19-year-old student from Schleswig-Holstein/Germany. I am a computer scie
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  </a>
+  <a href="https://www.nginx.com">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-226030.png" height="40"/>
   </a>
   <a href="https://nodejs.org">
     <img src="https://nodejs.org/static/images/logo.svg" height="40"/>
@@ -97,15 +106,6 @@ I am a 19-year-old student from Schleswig-Holstein/Germany. I am a computer scie
 <p float="left">
   <a href="https://flutter.dev/">
     <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" height="40"/>
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://go.dev/images/go-logo-blue.svg" height="40"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-  </a>
-  <a href="https://www.nginx.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-226030.png" height="40"/>
   </a>
   <a href="https://www.opengl.org/">
     <img src="https://www.opengl.org/img/OpenGL_100px_June16.png" height="40"/>
